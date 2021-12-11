@@ -1,7 +1,5 @@
 # multimedia-audio-project
 
-COMP 4431 mini project
-
 Added the code in post-processor.js for:
 
 - `MA filter` - create a Moving Average filter for lowpass and highpass filtering
